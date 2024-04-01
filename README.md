@@ -20,12 +20,22 @@ This program can translate by x, y and z coordinates described in file by a valu
 
 ## Useful Links
 
+### Controlers
+
 [Marlin Homepage](https://marlinfw.org/)
 [GitHub GBRL](https://github.com/grbl/grbl)
 [GitHub GBRL 5X](https://github.com/fra589/grbl-Mega-5X)
 [LinuxCNC Homepage](http://linuxcnc.org/)
+
+### GCode Converters
 [SVG2GCode](https://pypi.org/project/svg-to-gcode/)
 [GBR2NGC](https://github.com/abetusk/gbr2ngc/)
 [DRL2GCode](https://github.com/jes/drl2gcode)
 [FlatCAM Homepage](http://flatcam.org/)
 [Dmap2GCode](https://www.scorchworks.com/Dmap2gcode/dmap2gcode.html)
+
+### GCodeer Viewers
+[OpenBuilds](https://cam.openbuilds.com/)
+[NC Viewer](https://ncviewer.com/)
+[JSCut](https://jscut.org/jscut.html#)
+[SVGNest](https://svgnest.com/)
