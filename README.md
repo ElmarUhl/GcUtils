@@ -2,6 +2,11 @@
 
 This is a repository whose aim is produce programs to manipulate and edit gcode files.
 
+## GCode
+Think of G-code as a set of instructions for a machine. It tells the machine exactly where to move, how fast to go, and when to extrude material (like plastic filament in a 3D printer).  These instructions are written in a series of letters and numbers, with common commands like G01 for moving in a straight line and G02 for creating circular paths.
+
+By following this code, the machine can translate a complex 3D model into precise movements, building the object layer by layer.  G-code is not just for 3D printers, it's actually used for many computer controlled machines, like CNC machines and robots.  So next time you see something being created with amazing precision, there's a good chance G-code is behind the scenes making it happen.
+
 ## Programas
 
 **gcode-translate.py**
